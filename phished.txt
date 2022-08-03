@@ -1,0 +1,7 @@
+Whoops!
+
+The link you just clicked on was a phish! - But don't worry, this was a demonstration.
+
+However, if this had been real there could have been risk of a real attack. Like a drive-by compromise, or credential theft.
+
+Please only click links and follow instruction from people that you know, and make sure you are expecting this content from that person (because they could've been hacked or spoofed!).
